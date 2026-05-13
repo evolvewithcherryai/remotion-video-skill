@@ -10,6 +10,13 @@ description: |
   - 程序化视频：(1) 批量生成 (2) 数据驱动（如年度总结）(3) 音乐可视化 (4) 自动字幕
   - 教程讲解视频：(5) 技术概念可视化（如 CNN、算法）(6) 分层递进讲解 (7) AI 配音教程
   - 3D 视频：(8) 产品展示/模型动画 (9) 卡通角色讲解 (10) 3D 数据可视化 (11) Logo 动画
+version: 1.0.0
+user-invocable: true
+last-updated: 2026-05-09
+author: evolvewithcherry.ai
+tags: [video, remotion, React, 視頻製作, 動畫]
+changelog:
+  - 1.0.0 (2026-05-09): 初始版本
 ---
 
 # Remotion Video
