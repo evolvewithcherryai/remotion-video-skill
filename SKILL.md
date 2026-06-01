@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: false
 name: remotion-video
 description: |
   使用 Remotion 框架以编程方式创建视频。Remotion 让你用 React 组件定义视频内容，支持动画、字幕、音乐可视化等。
