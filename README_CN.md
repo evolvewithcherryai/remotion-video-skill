@@ -1,6 +1,6 @@
 # remotion-video
 
-[English](README.md)
+[English](000_Agent/skills/remotion-video/README.md)
 
 使用 Remotion 框架编程式创建视频的 Claude Code Skill。
 
